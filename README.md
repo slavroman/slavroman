@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slavroman
 - 👀 I’m interested in develop Windows desktop apps // a crazy guy who started learn it at 39 y.o. :)
-- 🌱 I’m currently learning C++, C# and Delphi later...
+- 🌱 I’m currently learning C++, C# later and Delphi maybe later...
 - 💞️ I’m looking to collaborate on guys how have a great experience in development and languages above ;)
 - 📫 How to reach me  - slaventiy2000@gmail.com
 
